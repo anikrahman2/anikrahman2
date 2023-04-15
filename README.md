@@ -3,7 +3,7 @@
 ![Web Developer](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  REACT / Javascript / HTML / CSS / BOOTSTRAP/ TailWind CSS/ Express js
 
 - 🔭 I’m currently working on In ARSP INTERNATIONAL 
 - 🌱 I’m currently learning Javascript 
